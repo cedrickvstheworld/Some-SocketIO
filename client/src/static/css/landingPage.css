@@ -1,0 +1,11 @@
+#landing-page-wrapper {
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.oauth-btn {
+    margin-left: 10px;
+    margin-right: 10px;
+}
